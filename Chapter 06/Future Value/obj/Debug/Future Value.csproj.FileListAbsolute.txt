@@ -1,0 +1,43 @@
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\bin\Debug\Future Value.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\bin\Debug\Future Value.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\bin\Debug\Future Value.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\obj\Debug\Future Value.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\obj\Debug\Future Value.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\obj\Debug\Future_Value.frmFutureValue.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\obj\Debug\Future_Value.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\obj\Debug\Future Value.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\obj\Debug\Future Value.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\obj\Debug\Future Value.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 05\Future Value\obj\Debug\Future Value.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\bin\Debug\Future Value.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\bin\Debug\Future Value.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\bin\Debug\Future Value.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\obj\Debug\Future Value.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\obj\Debug\Future Value.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\obj\Debug\Future_Value.frmFutureValue.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\obj\Debug\Future_Value.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\obj\Debug\Future Value.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\obj\Debug\Future Value.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\obj\Debug\Future Value.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 06\Future Value\obj\Debug\Future Value.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\bin\Debug\Future Value.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\bin\Debug\Future Value.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\bin\Debug\Future Value.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\obj\Debug\Future Value.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\obj\Debug\Future Value.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\obj\Debug\Future_Value.frmFutureValue.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\obj\Debug\Future_Value.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\obj\Debug\Future Value.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\obj\Debug\Future Value.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\obj\Debug\Future Value.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 06\Future Value\obj\Debug\Future Value.pdb
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\bin\Debug\Future Value.exe.config
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\bin\Debug\Future Value.exe
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\bin\Debug\Future Value.pdb
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\obj\Debug\Future Value.csproj.AssemblyReference.cache
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\obj\Debug\Future_Value.frmFutureValue.resources
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\obj\Debug\Future_Value.Properties.Resources.resources
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\obj\Debug\Future Value.csproj.GenerateResource.cache
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\obj\Debug\Future Value.csproj.CoreCompileInputs.cache
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\obj\Debug\Future Value.exe
+D:\Programming\C# Programming\C#-Project\Chapter 06\Future Value\obj\Debug\Future Value.pdb

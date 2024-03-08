@@ -1,0 +1,11 @@
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\obj\Debug\Customer Invoice Display.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\obj\Debug\Customer Invoice Display.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\obj\Debug\Customer_Invoice_Display.frmCustomerInvoiceDisplay.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\obj\Debug\Customer_Invoice_Display.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\obj\Debug\Customer Invoice Display.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\obj\Debug\Customer Invoice Display.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\bin\Debug\Customer Invoice Display.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\bin\Debug\Customer Invoice Display.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\bin\Debug\Customer Invoice Display.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\obj\Debug\Customer Invoice Display.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 19\Customer Invoice Display\obj\Debug\Customer Invoice Display.pdb

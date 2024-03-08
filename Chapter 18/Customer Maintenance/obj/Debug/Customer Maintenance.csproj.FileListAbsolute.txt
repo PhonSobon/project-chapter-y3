@@ -1,0 +1,11 @@
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\bin\Debug\Customer Maintenance.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\bin\Debug\Customer Maintenance.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\bin\Debug\Customer Maintenance.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\obj\Debug\Customer Maintenance.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\obj\Debug\Customer Maintenance.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\obj\Debug\Customer_Maintenance.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\obj\Debug\Customer Maintenance.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\obj\Debug\Customer Maintenance.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\obj\Debug\Customer Maintenance.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\obj\Debug\Customer Maintenance.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 18\Customer Maintenance\obj\Debug\Customer_Maintenance.frmCustomerMaintenance.resources

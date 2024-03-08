@@ -1,0 +1,12 @@
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\bin\Debug\Payment.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\bin\Debug\Payment.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\bin\Debug\Payment.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.frmCustomer.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# Project Chapter\Chapter 10\Payment\obj\Debug\Payment.frmPayment.resources

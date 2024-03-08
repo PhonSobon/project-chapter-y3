@@ -1,0 +1,36 @@
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product Maintenance.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product Maintenance.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product_Maintenance.frmNewProduct.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product_Maintenance.frmProductMaintenance.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product_Maintenance.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product Maintenance.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product Maintenance.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\bin\Debug\Product Maintenance.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\bin\Debug\Product Maintenance.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\bin\Debug\Product Maintenance.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product Maintenance.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 12\Product Maintenance\obj\Debug\Product Maintenance.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product Maintenance.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product Maintenance.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product_Maintenance.frmNewProduct.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product_Maintenance.frmProductMaintenance.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product_Maintenance.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product Maintenance.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product Maintenance.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product Maintenance.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\obj\Debug\Product Maintenance.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\bin\Debug\Product Maintenance.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\bin\Debug\Product Maintenance.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 13\Product Maintenance\bin\Debug\Product Maintenance.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\bin\Debug\Product Maintenance.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\bin\Debug\Product Maintenance.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\bin\Debug\Product Maintenance.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product Maintenance.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product Maintenance.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product_Maintenance.frmNewProduct.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product_Maintenance.frmProductMaintenance.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product_Maintenance.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product Maintenance.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product Maintenance.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product Maintenance.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 2\.NET Programming\C# Project Chapter\Chapter 14\Product Maintenance\obj\Debug\Product Maintenance.pdb

@@ -1,0 +1,49 @@
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.exe
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.deps.json
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.runtimeconfig.json
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.dll
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.pdb
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.AssemblyInfo.cs
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.dll
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\refint\Telephone Numbers.dll
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.pdb
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.genruntimeconfig.cache
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\ref\Telephone Numbers.dll
+C:\Users\MSI\OneDrive - Royal University of Phnom Penh\Desktop\Years3\.NET\Project_C#\Chapter_1\Telephone Numbers\obj\Debug\net6.0-windows\Telephone_Numbers.Telephone_numbers.resources
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.exe
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.deps.json
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.runtimeconfig.json
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.dll
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.pdb
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone_Numbers.frmTelephoneNumbers.resources
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.csproj.GenerateResource.cache
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.AssemblyInfoInputs.cache
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.AssemblyInfo.cs
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.dll
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\refint\Telephone Numbers.dll
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.pdb
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.genruntimeconfig.cache
+D:\Programming\C# Programming\C#_Programming\Chapter 02\Telephone Numbers\obj\Debug\net6.0-windows\ref\Telephone Numbers.dll
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.exe
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.deps.json
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.runtimeconfig.json
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.dll
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\bin\Debug\net6.0-windows\Telephone Numbers.pdb
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone_Numbers.frmTelephoneNumbers.resources
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.csproj.GenerateResource.cache
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.AssemblyInfoInputs.cache
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.AssemblyInfo.cs
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.dll
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\refint\Telephone Numbers.dll
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.pdb
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\Telephone Numbers.genruntimeconfig.cache
+D:\Programming\C# Programming\C#_Programming\Chapter 05\Telephone Numbers\obj\Debug\net6.0-windows\ref\Telephone Numbers.dll

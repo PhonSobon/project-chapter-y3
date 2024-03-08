@@ -1,0 +1,11 @@
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\bin\Debug\Shipping and Handling.exe.config
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\bin\Debug\Shipping and Handling.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\bin\Debug\Shipping and Handling.pdb
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\obj\Debug\Shipping and Handling.csproj.AssemblyReference.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\obj\Debug\Shipping and Handling.csproj.SuggestedBindingRedirects.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\obj\Debug\Shipping_and_Handling.frmShippingAndHandling.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\obj\Debug\Shipping_and_Handling.Properties.Resources.resources
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\obj\Debug\Shipping and Handling.csproj.GenerateResource.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\obj\Debug\Shipping and Handling.csproj.CoreCompileInputs.cache
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\obj\Debug\Shipping and Handling.exe
+D:\Penh Polydet\Computer Science and Engineering\Year 3 Semester 1\.NET Programming\C# 2010\Chapter 02\Shipping and Handling\obj\Debug\Shipping and Handling.pdb
